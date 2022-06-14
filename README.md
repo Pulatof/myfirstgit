@@ -1,0 +1,2 @@
+# myfirstgit
+yengi nimadir qmoqchimiz
